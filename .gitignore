@@ -1,0 +1,27 @@
+# Private brief — must not be published
+School_Admission_System_Assignment.md
+
+# Local env files (examples are committed as .env.example)
+.env
+!.env.example
+
+# .NET
+bin/
+obj/
+*.user
+TestResults/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/*
+
+# Frontend (Vite)
+node_modules/
+dist/
+dist-ssr/
+*.local
+logs/
+*.log
+*.sw?
+!.vscode/extensions.json
